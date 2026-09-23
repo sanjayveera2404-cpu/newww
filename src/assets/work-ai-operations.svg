@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#07152b"/>
+  <path d="M0 760h1200" stroke="#1e4164" stroke-width="2"/>
+  <rect x="90" y="94" width="1020" height="650" rx="16" fill="#0c223c" stroke="#2b5272" stroke-width="3"/>
+  <rect x="90" y="94" width="1020" height="70" rx="16" fill="#102c49"/>
+  <circle cx="130" cy="129" r="9" fill="#e2ae3c"/><circle cx="160" cy="129" r="9" fill="#24d7c0"/><circle cx="190" cy="129" r="9" fill="#3989db"/>
+  <text x="240" y="137" fill="#dbeaf2" font-family="Arial,sans-serif" font-size="22" letter-spacing="4">AI OPERATIONS / LIVE WORKFLOW</text>
+  <rect x="130" y="208" width="310" height="190" rx="10" fill="#102d49" stroke="#2a526d"/>
+  <text x="160" y="248" fill="#9ab5c7" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">AUTOMATIONS</text>
+  <text x="160" y="316" fill="#ffffff" font-family="Arial,sans-serif" font-size="58" font-weight="700">24</text>
+  <text x="160" y="356" fill="#24d7c0" font-family="Arial,sans-serif" font-size="18">+18% this week</text>
+  <rect x="480" y="208" width="590" height="190" rx="10" fill="#102d49" stroke="#2a526d"/>
+  <text x="510" y="248" fill="#9ab5c7" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">MODEL CONFIDENCE</text>
+  <path d="M520 347 C580 300 620 326 675 272 S780 300 830 250 S930 284 1028 220" fill="none" stroke="#24d7c0" stroke-width="7"/>
+  <path d="M520 347 C580 300 620 326 675 272 S780 300 830 250 S930 284 1028 220V370H520Z" fill="#24d7c0" opacity=".12"/>
+  <rect x="130" y="440" width="940" height="250" rx="10" fill="#091c34" stroke="#2a526d"/>
+  <text x="160" y="480" fill="#9ab5c7" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TASK QUEUE</text>
+  <g font-family="Arial,sans-serif" font-size="20">
+    <text x="160" y="535" fill="#ffffff">Customer request triage</text><text x="820" y="535" fill="#24d7c0">RUNNING</text>
+    <text x="160" y="590" fill="#ffffff">Document extraction</text><text x="820" y="590" fill="#e2ae3c">REVIEW</text>
+    <text x="160" y="645" fill="#ffffff">Weekly insight summary</text><text x="820" y="645" fill="#7e9bb0">QUEUED</text>
+  </g>
+  <path d="M0 820L400 760 760 900H0Z" fill="#0c2945" opacity=".8"/>
+</svg>

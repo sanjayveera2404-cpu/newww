@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e9f1f4"/>
+  <rect x="72" y="70" width="1056" height="760" rx="18" fill="#ffffff" stroke="#a8c4d1" stroke-width="3"/>
+  <rect x="72" y="70" width="1056" height="82" rx="18" fill="#f3f8fa"/>
+  <circle cx="116" cy="111" r="9" fill="#e2ae3c"/><circle cx="148" cy="111" r="9" fill="#24d7c0"/><circle cx="180" cy="111" r="9" fill="#2868d8"/>
+  <rect x="235" y="94" width="240" height="34" rx="17" fill="#dcebf0"/>
+  <text x="263" y="117" fill="#183954" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">PRODUCT PORTAL</text>
+  <rect x="72" y="152" width="230" height="678" fill="#0c2945"/>
+  <text x="110" y="220" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Workspace</text>
+  <g fill="#9dbaca" font-family="Arial,sans-serif" font-size="18"><text x="110" y="285">Overview</text><text x="110" y="335">Requests</text><text x="110" y="385">Customers</text><text x="110" y="435">Integrations</text></g>
+  <rect x="110" y="484" width="152" height="3" fill="#24d7c0"/>
+  <text x="110" y="540" fill="#ffffff" font-family="Arial,sans-serif" font-size="18">Settings</text>
+  <text x="350" y="230" fill="#183954" font-family="Arial,sans-serif" font-size="38" font-weight="700">Good morning, team</text>
+  <text x="350" y="270" fill="#6b8797" font-family="Arial,sans-serif" font-size="18">A clear view of what needs attention today.</text>
+  <rect x="350" y="325" width="220" height="150" rx="12" fill="#eff7f8"/><text x="380" y="365" fill="#5f7d8e" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">OPEN REQUESTS</text><text x="380" y="430" fill="#183954" font-family="Arial,sans-serif" font-size="48" font-weight="700">18</text>
+  <rect x="600" y="325" width="220" height="150" rx="12" fill="#eef2fb"/><text x="630" y="365" fill="#5f7d8e" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">IN PROGRESS</text><text x="630" y="430" fill="#2868d8" font-family="Arial,sans-serif" font-size="48" font-weight="700">07</text>
+  <rect x="850" y="325" width="220" height="150" rx="12" fill="#fff8e8"/><text x="880" y="365" fill="#8b7852" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">ON TIME</text><text x="880" y="430" fill="#b78620" font-family="Arial,sans-serif" font-size="48" font-weight="700">94%</text>
+  <text x="350" y="555" fill="#183954" font-family="Arial,sans-serif" font-size="20" font-weight="700">Recent activity</text>
+  <path d="M350 625h720M350 680h720M350 735h720" stroke="#d6e4e9" stroke-width="2"/>
+  <g fill="#24a9d2"><circle cx="380" cy="625" r="8"/><circle cx="380" cy="680" r="8"/><circle cx="380" cy="735" r="8"/></g>
+  <g fill="#4c6979" font-family="Arial,sans-serif" font-size="18"><text x="410" y="631">New customer request assigned</text><text x="410" y="686">Billing integration connected</text><text x="410" y="741">Team workspace updated</text></g>
+</svg>

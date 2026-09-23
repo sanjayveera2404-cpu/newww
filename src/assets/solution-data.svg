@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0b1e3a"/><stop offset="1" stop-color="#061329"/></linearGradient><linearGradient id="area" x2="0" y2="1"><stop stop-color="#24d7c0" stop-opacity=".4"/><stop offset="1" stop-color="#24d7c0" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="820" fill="url(#bg)"/><g stroke="#80a8bc" stroke-width="2" opacity=".18"><path d="M120 160h960M120 300h960M120 440h960M120 580h960"/><path d="M120 120v500M360 120v500M600 120v500M840 120v500M1080 120v500"/></g>
+<path d="M120 560 C220 510 260 540 350 430 S500 470 600 350 S750 400 840 250 S980 310 1080 170V620H120Z" fill="url(#area)"/><path d="M120 560 C220 510 260 540 350 430 S500 470 600 350 S750 400 840 250 S980 310 1080 170" fill="none" stroke="#24d7c0" stroke-width="7"/>
+<g fill="#102d4b" stroke="#e7bf59" stroke-width="4"><circle cx="350" cy="430" r="11"/><circle cx="600" cy="350" r="11"/><circle cx="840" cy="250" r="11"/><circle cx="1080" cy="170" r="11"/></g>
+<rect x="120" y="120" width="960" height="500" fill="none" stroke="#3c6684" stroke-width="3"/><g fill="#d8e9f1" font-family="Arial,sans-serif" letter-spacing="4" font-size="16"><text x="120" y="80">SIGNAL / 07 DAYS</text><text x="120" y="700">EVENTS</text><text x="1012" y="700">DECISIONS</text></g><path d="M120 744h960" stroke="#e7bf59" stroke-width="4"/><circle cx="120" cy="744" r="7" fill="#e7bf59"/>
+</svg>

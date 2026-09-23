@@ -1,0 +1,17 @@
+node_modules
+.output/
+.wrangler/
+dist/
+dist-ssr/
+.vinxi/
+.tanstack/
+.nitro/
+.vite/
+*.local
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+.vercel
